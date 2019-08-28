@@ -1,0 +1,393 @@
+battery_capacity=300
+maximum_fruit_kg=13
+maximum_move=16
+John Lions Garden: other
+Matthew's Mangos: will sell 1641 kg of Mangos for $16/kg
+Durian Sisters: will sell 208 kg of Durian for $41/kg
+Kingsford Estate: will sell 1905 kg of Grapes for $39/kg
+Oud Lab: will buy 2465 kg of Limes for $9/kg
+CLB 6: will buy 1358 kg of Mangos for $17/kg
+Smelly Fruits R Us: will sell 747 kg of Durian for $65/kg
+CLB 1: will buy 2785 kg of Cherries for $13/kg
+Luscious Lychees: will sell 2853 kg of Lychees for $108/kg
+Eastgardens Fruit: will sell 2368 kg of Cherries for $8/kg
+Quadrangle Lawn: other
+Lyre Lab: will buy 2498 kg of Limes for $6/kg
+CLB 3: will buy 2407 kg of Lemons for $45/kg
+Science Theatre: will buy 857 kg of Cherries for $17/kg
+Oboe Lab: will buy 1511 kg of Durian for $100/kg
+Clovelly Lychees: will sell 1221 kg of Lychees for $65/kg
+CLB 2: will buy 659 kg of Cherries for $13/kg
+Green Square Vines: will sell 1957 kg of Grapes for $21/kg
+CLB 4: will buy 1894 kg of Lemons for $45/kg
+CLB 7: will buy 1581 kg of Mangos for $20/kg
+Great Grapes: will sell 3384 kg of Grapes for $27/kg
+Sitar Lab: will buy 0 kg of Durian for $162/kg
+Physics Theatre: will buy 1448 kg of Mangos for $24/kg
+Bugle Lab: will buy 1584 kg of Limes for $4/kg
+Village Green: other
+Rosebery Vinnyard: will sell 1913 kg of Grapes for $35/kg
+Clancy Auditorium: will buy 2279 kg of Lemons for $46/kg
+Physics Lawn: other
+Mathews D: will buy 1329 kg of Lychees for $89/kg
+Kora Lab: will buy 1078 kg of Durian for $131/kg
+Lovely Limes: will sell 661 kg of Limes for $2/kg
+Lychees Brothers: will sell 680 kg of Lychees for $75/kg
+Randwick Vineyards: will sell 3135 kg of Grapes for $37/kg
+Botany Produce: will sell 2927 kg of Cherries for $5/kg
+Drum Lab: will buy 1482 kg of Limes for $5/kg
+Campus Green Waste: will buy 4472938 kg of Anything for $1/kg
+Discount Electricity: will sell 8107 kJ of Electricity for $4/kJ
+Wentworth Lychees: will sell 1699 kg of Lychees for $96/kg
+Marvellous Mangos: will sell 1877 kg of Mangos for $15/kg
+Anzac Parade: other
+Mathews A: will buy 38 kg of Lychees for $150/kg
+Kensington Cherries: will sell 2172 kg of Cherries for $6/kg
+Mathews B: will buy 1 kg of Lychees for $169/kg
+Paddington Mango Plantation: will sell 3631 kg of Mangos for $13/kg
+Joy's Juices: will buy 3082681 kg of Anything for $1/kg
+Citrus Specialists: will sell 1918 kg of Limes for $3/kg
+Tabla Lab: will buy 1685 kg of Limes for $6/kg
+Campus Cherry Orchard: will sell 1359 kg of Cherries for $6/kg
+K17 Basement: will buy 2409 kg of Mangos for $19/kg
+Kingsford Lemons: will sell 2589 kg of Oranges for $18/kg
+Electricity UNSW: will sell 24256 kJ of Electricity for $5/kJ
+Bongo Lab: will buy 1549 kg of Limes for $9/kg
+Kensington Solar: will sell 25010 kJ of Electricity for $4/kJ
+Rosebery Lemon Grove: will sell 2305 kg of Oranges for $16/kg
+Keith Burrows Theatre: will buy 1380 kg of Cherries for $12/kg
+CLB 8: will buy 2329 kg of Cherries for $12/kg
+UNSW Recyling: will buy 5792843 kg of Anything for $2/kg
+Viola Lab: will buy 780 kg of Durian for $87/kg
+J17 G03: will buy 1410 kg of Lemons for $52/kg
+Sour Fruit Specialists: will sell 1088 kg of Lemons for $23/kg
+Mathews C: will buy 1466 kg of Cherries for $14/kg
+Durian For Dummies: will sell 2789 kg of Durian for $71/kg
+Campus Citrus Centre: will sell 2331 kg of Lemons for $26/kg
+Bondi Mango Growers: will sell 1777 kg of Mangos for $13/kg
+We Love The Smell: will sell 2776 kg of Durian for $50/kg
+Horn Lab: will buy 1077 kg of Limes for $4/kg
+"The Intense Bot" is at "Village Green" with $493, battery level: 276
+"Digital Asset" is at "Mathews A" with $6413, battery level: 174
+"_xd" is at "Mathews A" with $5858, battery level: 172, 13 kg of Lychees
+"Cheese Kimbap" is at "Sour Fruit Specialists" with $1520, battery level: 235, 13 kg of Lemons
+"Triple six" is at "Mathews D" with $366, battery level: 234, 12 kg of Lychees
+"Botty McBotface" is at "K17 Basement" with $961, battery level: 232
+"DerpBot4" is at "Mathews A" with $5997, battery level: 158
+"bilch" is at "J17 G03" with $2521, battery level: 252
+"la ji" is at "Mathews A" with $5030, battery level: 94
+"Fruit Seller" is at "Village Green" with $493, battery level: 276
+"asdf" is at "Keith Burrows Theatre" with $1672, battery level: 246
+"Supid_programming_pun" is at "J17 G03" with $3486, battery level: 218
+"Go Grow A Pear" is at "Kensington Solar" with $373, battery level: 300
+"Mr Grace" is at "Lovely Limes" with $13, battery level: 280, 13 kg of Limes
+"0profitcomingthrough" is at "J17 G03" with $2755, battery level: 282
+"REEEEEEEEEE" is at "J17 G03" with $415, battery level: 106, 13 kg of Lemons
+"Filthy Meatball" is at "Botany Produce" with $885, battery level: 231, 13 kg of Grapes
+"UwU returns" is at "Mathews A" with $2259, battery level: 66
+"GouLiGuoJiaShengSiYi" is at "Kora Lab" with $4978, battery level: 75
+"Paddy's Markets" is at "Mathews D" with $706, battery level: 242, 1 kg of Lychees
+"Locke-Bot" is at "Kora Lab" with $1, battery level: 29, 12 kg of Durian
+"EcMile McHesky" is at "Tabla Lab" with $727, battery level: 94, 13 kg of Limes
+"Sanste" is at "Mathews A" with $2827, battery level: 206
+"Vince McMahon" is at "Mathews A" with $4025, battery level: 138, 13 kg of Lychees
+"Case Blue" is at "Mathews A" with $4789, battery level: 170, 13 kg of Lychees
+"stupid bot version1" is at "Smelly Fruits R Us" with $820, battery level: 204
+"Botfly" is at "Lovely Limes" with $753, battery level: 126
+"pau10" is at "Lychees Brothers" with $5988, battery level: 165
+"Is it really though" is at "Mathews A" with $5975, battery level: 132
+"stalker-bot 2018-05-31 1345" is at "John Lions Garden" with $493, battery level: 300
+"me" is at "Tabla Lab" with $3908, battery level: 176, 13 kg of Limes
+"m7 toll new" is at "Mathews A" with $6478, battery level: 174
+"i miss hot pot sooooooo much" is at "Mathews A" with $6043, battery level: 144
+"Frostbyte the Sad" is at "Mathews A" with $7113, battery level: 156
+"Yet another fruit vendor" is at "Mathews A" with $7113, battery level: 156
+"Victorrrrrrrrrr" is at "Campus Citrus Centre" with $493, battery level: 224
+"God loves mormons" is at "Mathews A" with $3895, battery level: 240
+"Soryu Asuka Langley" is at "Mathews A" with $5997, battery level: 158
+"SuperCat" is at "Keith Burrows Theatre" with $1672, battery level: 246
+"ForeverAlex HXY" is at "Physics Theatre" with $4179, battery level: 164, 13 kg of Mangos
+"00ROZZO" is at "Mathews A" with $5975, battery level: 132
+"qwerqwerqwer" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"ChildLulu" is at "Mathews D" with $31, battery level: 242, 10 kg of Lychees
+"nutmeg 5000" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Generic_Bot" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Such lovely boost" is at "Lychees Brothers" with $1, battery level: 92
+"Electric Fruitbat" is at "Sitar Lab" with $285, battery level: 279, 13 kg of Mangos
+"tru dat" is at "Mathews B" with $467, battery level: 258, 13 kg of Limes
+"blep" is at "Mathews A" with $7035, battery level: 172
+"Doki Doki" is at "Viola Lab" with $2085, battery level: 247
+"Heisenberg" is at "Oud Lab" with $285, battery level: 296, 13 kg of Mangos
+"failing 1131_v3" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"TaylorRoxtxt" is at "Campus Cherry Orchard" with $3476, battery level: 167, 13 kg of Cherries
+"Salty Snacks" is at "J17 G03" with $1611, battery level: 98, 13 kg of Lychees
+"save_mah_sanityorg" is at "Oboe Lab" with $5712, battery level: 162
+"RamosTheAnimal" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Botty McBotbot" is at "Kora Lab" with $6820, battery level: 139
+"Welcome to the orchard" is at "John Lions Garden" with $493, battery level: 300
+"stan LOONA" is at "Mathews D" with $1698, battery level: 242, 13 kg of Lychees
+"Jungshook" is at "Mathews D" with $1093, battery level: 234, 1 kg of Lychees
+"Ava" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Grumbly" is at "Mathews A" with $7113, battery level: 156
+"ELIE'S SECRET ADMIRER" is at "Clovelly Lychees" with $4658, battery level: 113
+"R A M A" is at "Oboe Lab" with $4692, battery level: 88
+"Aesop Rock" is at "Mathews B" with $5195, battery level: 154, 5 kg of Lychees
+"The Fridge" is at "Mathews A" with $5975, battery level: 130
+"Jakkkkkkkkimprove" is at "Mathews A" with $5975, battery level: 130
+"Joey JoJo Jr Shabadoo" is at "J17 G03" with $2755, battery level: 282
+"BalenciagaBotUwU" is at "Horn Lab" with $285, battery level: 297, 13 kg of Mangos
+"I'm scared mommy" is at "Eastgardens Fruit" with $846, battery level: 223, 13 kg of Lemons
+"fruity McBot" is at "Campus Green Waste" with $3080, battery level: 161
+"Fae" is at "Mathews A" with $6192, battery level: 214
+"Juliocentric" is at "Great Grapes" with $246, battery level: 276, 13 kg of Grapes
+"Bestn't Bot" is at "Mathews D" with $1773, battery level: 242, 12 kg of Lychees
+"i am the coolest bu fu lai zhan" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"not cheating" is at "Oboe Lab" with $467, battery level: 248, 13 kg of Limes
+"RRR" is at "Mathews B" with $5195, battery level: 154, 5 kg of Lychees
+"JodieLeeBot" is at "UNSW Recyling" with $1301, battery level: 242
+"ALMAGEST" is at "Viola Lab" with $4035, battery level: 177
+"baymax" is at "Keith Burrows Theatre" with $1672, battery level: 246
+"1437" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"ThE MerchanT of VenicE" is at "Oud Lab" with $285, battery level: 296, 13 kg of Mangos
+"Tony did a shoey Reformed" is at "Mathews A" with $5975, battery level: 132
+"Butterfingers" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Perd Hapley" is at "Kensington Solar" with $1, battery level: 89
+"Han Solo dies in Solo" is at "Lychees Brothers" with $4513, battery level: 165, 13 kg of Lychees
+"Daddy's Little Fidget Spinner" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"Gorilla Gorilla" is at "Mathews D" with $4240, battery level: 194
+"greedy guinea pig" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"Liquorland" is at "J17 G03" with $2755, battery level: 282
+"GUDETAMA" is at "Electricity UNSW" with $3872, battery level: 185, 13 kg of Lychees
+"YoRHa" is at "Mathews A" with $5975, battery level: 130
+"Charlie 002" is at "Physics Theatre" with $285, battery level: 0, 13 kg of Mangos
+"The Return of Trader Bot" is at "Lychees Brothers" with $6261, battery level: 165
+"Seymour Butz is a cromulent name" is at "Rosebery Lemon Grove" with $961, battery level: 199
+"Bashirr" is at "Kensington Cherries" with $1594, battery level: 259
+"MY CABBAGES" is at "Durian Sisters" with $10, battery level: 226, 8 kg of Durian
+"wallah to allah cuz" is at "Campus Green Waste" with $9, battery level: 257
+"I live 2 hours from uni pls help" is at "Lovely Limes" with $3029, battery level: 162, 13 kg of Limes
+"moonstar's top radish" is at "Durian Sisters" with $4692, battery level: 86
+"Noodle Soup" is at "Mathews A" with $1487, battery level: 206, 13 kg of Lychees
+"A Sinister Baron Mittens" is at "Mathews A" with $6043, battery level: 144
+"Mr Blue Sky" is at "Wentworth Lychees" with $1335, battery level: 215, 13 kg of Lychees
+"Lulu terminator" is at "Mathews A" with $7113, battery level: 156
+"ScyTree" is at "Discount Electricity" with $4332, battery level: 300, 5 kg of Lychees
+"I collect salmon" is at "Great Grapes" with $246, battery level: 276, 13 kg of Grapes
+"notice me senpai" is at "K17 Basement" with $193, battery level: 282, 6 kg of Durian
+"Khajiit Caravans" is at "Lychees Brothers" with $5152, battery level: 171
+"crispy" is at "Discount Electricity" with $2240, battery level: 300, 13 kg of Lychees
+"BotS" is at "John Lions Garden" with $493, battery level: 60
+"zz why does everyone name change" is at "Mathews A" with $7113, battery level: 156
+"Nairu" is at "UNSW Recyling" with $937, battery level: 240, 13 kg of Oranges
+"TOP 10 GANG TERRITORY YEET" is at "Mathews A" with $7113, battery level: 156
+"Tutti Frutti" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"Newbie" is at "Durian Sisters" with $3359, battery level: 142
+"ZYLi_v20" is at "Science Theatre" with $6040, battery level: 125
+"MJ" is at "Mathews D" with $1561, battery level: 254
+"One Belt One Road" is at "Durian For Dummies" with $717, battery level: 235
+"Oooof" is at "Eastgardens Fruit" with $3100, battery level: 205
+"Lulu" is at "J17 G03" with $2755, battery level: 282
+"Simon" is at "Wentworth Lychees" with $210, battery level: 213
+"IYL" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"DumBot" is at "Mathews B" with $3444, battery level: 218, 5 kg of Lychees
+"Vndi Fruit Ninja" is at "Mathews C" with $67, battery level: 294, 6 kg of Durian
+"YYY" is at "Kora Lab" with $4025, battery level: 137, 13 kg of Lychees
+"Struggle Street" is at "Mathews B" with $4231, battery level: 172, 13 kg of Lychees
+"Coolchloe" is at "Randwick Vineyards" with $493, battery level: 268
+"Shopaholic" is at "Kensington Cherries" with $1594, battery level: 259
+"waliy second trial" is at "Kensington Cherries" with $1594, battery level: 259
+"Cam" is at "J17 G03" with $61, battery level: 276, 4 kg of Lychees
+"Iwan Masri" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Enu the Emu" is at "J17 G03" with $2755, battery level: 282
+"NI-COLDDDD MA" is at "Great Grapes" with $597, battery level: 258
+"Bot v42" is at "Mathews A" with $5975, battery level: 130
+"vv" is at "Kora Lab" with $12, battery level: 205, 13 kg of Grapes
+"Jacobie 20" is at "Rosebery Lemon Grove" with $6, battery level: 265
+"frOwOt" is at "Rosebery Lemon Grove" with $792, battery level: 213, 13 kg of Oranges
+"i gonna fail my final cause too " is at "Electricity UNSW" with $1516, battery level: 250, 13 kg of Cherries
+"Xtreme" is at "Science Theatre" with $1195, battery level: 247
+"too hard" is at "Great Grapes" with $246, battery level: 276, 13 kg of Grapes
+"I am Gundam" is at "Green Square Vines" with $885, battery level: 247, 13 kg of Grapes
+"AAA" is at "Kingsford Lemons" with $753, battery level: 101, 13 kg of Cherries
+"Terry loves yoghurt" is at "Mathews B" with $309, battery level: 68, 13 kg of Lychees
+"Eddy Ave Eggplants" is at "Campus Green Waste" with $989, battery level: 263, 13 kg of Cherries
+"Player" is at "Village Green" with $493, battery level: 276
+"Euphemia" is at "J17 G03" with $2035, battery level: 278, 13 kg of Lemons
+"GingerBreadKing" is at "J17 G03" with $2711, battery level: 280
+"THE JONAS BROTHERS" is at "Joy's Juices" with $12, battery level: 236, 3 kg of Mangos
+"Kevo" is at "Mathews D" with $1015, battery level: 272
+"miss_spend_youth" is at "Lychees Brothers" with $3147, battery level: 117, 13 kg of Lychees
+"HEHE XD" is at "Keith Burrows Theatre" with $1672, battery level: 246
+"Limitless" is at "Mathews B" with $4038, battery level: 162, 13 kg of Lychees
+"gokul" is at "Oboe Lab" with $1, battery level: 28, 12 kg of Durian
+"ZZZZZZZ" is at "CLB 1" with $831, battery level: 273
+"luke kim's strawberry eyeliner" is at "Physics Theatre" with $2859, battery level: 166, 13 kg of Mangos
+"The Bic Henry" is at "Campus Cherry Orchard" with $1819, battery level: 187
+"Loan_Shark_2018" is at "Durian For Dummies" with $25, battery level: 161, 12 kg of Durian
+"1231231231231231231231212312312" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"Botty McBotbot0" is at "Clovelly Lychees" with $493, battery level: 117
+"COMP1511 KEVIN CHEN" is at "Mathews A" with $3895, battery level: 158, 13 kg of Lychees
+"albot einstein" is at "Mathews D" with $365, battery level: 230, 13 kg of Lychees
+"Botty McBotbot1" is at "Mathews B" with $309, battery level: 68, 13 kg of Lychees
+"yoot" is at "Oud Lab" with $285, battery level: 296, 13 kg of Mangos
+"Make dat money" is at "Kora Lab" with $3392, battery level: 73, 13 kg of Durian
+"Watermelon Frappe" is at "Durian Sisters" with $2332, battery level: 154, 13 kg of Durian
+"vicinx" is at "Mathews A" with $3749, battery level: 190
+"A-doggy-dog" is at "Discount Electricity" with $1054, battery level: 264
+"lets follow what lulu does" is at "Mathews A" with $1891, battery level: 238, 13 kg of Lychees
+"Ps Get Degrees" is at "Mathews A" with $5975, battery level: 130
+"Wilson's beard  Wigfrid's spear" is at "Science Theatre" with $2950, battery level: 157, 13 kg of Cherries
+"mxyzptlk" is at "Mathews B" with $3798, battery level: 202, 13 kg of Lychees
+"Uraraka is Best Girl" is at "Mathews B" with $5293, battery level: 146, 5 kg of Lychees
+"Bumblebee" is at "Physics Theatre" with $2859, battery level: 166, 13 kg of Mangos
+"95VictorVictor2" is at "Keith Burrows Theatre" with $1672, battery level: 246
+"Duriand'" is at "Discount Electricity" with $0, battery level: 273, 11 kg of Lychees
+"I probs don't make profit bot" is at "Bongo Lab" with $857, battery level: 123
+"The REAL Fruit Man" is at "Bongo Lab" with $857, battery level: 123
+"ERIC" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Wyzey the Wizard" is at "Durian Sisters" with $399, battery level: 74, 13 kg of Oranges
+"Bjorgerson" is at "Bongo Lab" with $857, battery level: 123
+"BETA Ver 39" is at "Durian Sisters" with $4905, battery level: 124, 13 kg of Durian
+"okokook" is at "CLB 4" with $1, battery level: 282, 12 kg of Durian
+"Anxietyyyyyyyyyyyyyyyyy" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"My Angelic Sloth" is at "Green Square Vines" with $36, battery level: 283, 11 kg of Lychees
+"APPLE AND DURIAN FROOT LOOPS" is at "Physics Theatre" with $1201, battery level: 278
+"Donate to RUOK" is at "Horn Lab" with $285, battery level: 235, 13 kg of Mangos
+"PASSSSS" is at "Mathews D" with $285, battery level: 272, 13 kg of Mangos
+"Loki is alive" is at "CLB 1" with $831, battery level: 273
+"LANCEYBOY" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"The Grand Exchange" is at "Sour Fruit Specialists" with $1520, battery level: 235, 13 kg of Lemons
+"Stop hoarding the electricity" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Botty McBotbot2" is at "CLB 4" with $4155, battery level: 146, 13 kg of Durian
+"Banana Republic" is at "Kora Lab" with $5078, battery level: 137, 13 kg of Durian
+"f i s h i n g r o d" is at "Botany Produce" with $816, battery level: 133, 13 kg of Cherries
+"Stefanie Sun" is at "Kora Lab" with $4155, battery level: 125, 13 kg of Durian
+"OldFashioned" is at "Botany Produce" with $885, battery level: 231, 13 kg of Grapes
+"SHOW ME THE MONEY" is at "Mathews B" with $4193, battery level: 216, 1 kg of Lychees
+"Mr Fantastic" is at "Green Square Vines" with $885, battery level: 247, 13 kg of Grapes
+"yung bot" is at "Randwick Vineyards" with $12, battery level: 268, 13 kg of Grapes
+"Pecado" is at "Mathews C" with $43, battery level: 294, 9 kg of Durian
+"tripledouble" is at "J17 G03" with $688, battery level: 242
+"Loris Karius" is at "Mathews B" with $3080, battery level: 96, 13 kg of Lychees
+"CARAT" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"BOUMPY" is at "Horn Lab" with $857, battery level: 163, 13 kg of Lychees
+"Timbalicious" is at "Science Theatre" with $1195, battery level: 247
+"GIVE ME MO" is at "Durian Sisters" with $4692, battery level: 86
+"Fruity Matooty" is at "Mathews D" with $1561, battery level: 254
+"Gordon Ramsay" is at "Mathews A" with $5975, battery level: 130
+"HUNGRY_FOR_APPLES" is at "Sour Fruit Specialists" with $828, battery level: 199
+"Wing it" is at "Science Theatre" with $1195, battery level: 247
+"Jenny Tran from LGSM v2" is at "Physics Theatre" with $2183, battery level: 170
+"U Never Sell Well" is at "Mathews A" with $3895, battery level: 240
+"Quibbot" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Maplestory Free Market" is at "Rosebery Lemon Grove" with $6167, battery level: 157
+"Bertie Bot's every flavour Fruit" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"Mangoes" is at "Botany Produce" with $885, battery level: 231, 13 kg of Grapes
+"Lawrence Bob" is at "John Lions Garden" with $493, battery level: 300
+"Julieeeeeeeee" is at "Physics Theatre" with $870, battery level: 118, 13 kg of Mangos
+"MyBeautifulDarkTwistedFruitBot" is at "Tabla Lab" with $727, battery level: 94, 13 kg of Limes
+"Wall-E" is at "Discount Electricity" with $337, battery level: 62, 13 kg of Mangos
+"Erin Ebuenga" is at "Clovelly Lychees" with $4563, battery level: 87, 1 kg of Lychees
+"0fruity" is at "Discount Electricity" with $5858, battery level: 134
+"Maple TA" is at "CLB 2" with $740, battery level: 148, 13 kg of Cherries
+"ChoQ" is at "Mathews A" with $6478, battery level: 178
+"Judy" is at "We Love The Smell" with $910, battery level: 216, 13 kg of Mangos
+"Eclipse" is at "Mathews B" with $309, battery level: 68, 13 kg of Lychees
+"CYKA BLYAT" is at "J17 G03" with $2755, battery level: 282
+"BASI" is at "Mathews A" with $5685, battery level: 160
+"business lady" is at "Matthew's Mangos" with $285, battery level: 299, 13 kg of Mangos
+"Harold" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"This bot was removed for copyrig" is at "J17 G03" with $1791, battery level: 182
+"R2D2" is at "Science Theatre" with $1195, battery level: 247
+"Jarvis BOT" is at "Village Green" with $309, battery level: 78, 13 kg of Lychees
+"HALA MADRID 20" is at "UNSW Recyling" with $937, battery level: 240, 13 kg of Oranges
+"My suraname means MONEY" is at "Discount Electricity" with $5858, battery level: 134
+"Ben Swolo" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"n33916s151232e" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"ayelmao" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"Puffy" is at "Mathews A" with $5997, battery level: 158
+"Betsy" is at "Green Square Vines" with $885, battery level: 247, 13 kg of Grapes
+"table1065" is at "Citrus Specialists" with $1830, battery level: 225, 13 kg of Limes
+"MyCuteCuteLittlePigeon" is at "Mathews A" with $7113, battery level: 156
+"Dijkstra's Algorithm" is at "Mathews A" with $6478, battery level: 174
+"Ebzonman" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"Bale was so dope" is at "Mathews D" with $2020, battery level: 154, 13 kg of Lychees
+"6F040L5L6OW35M6E" is at "Mathews A" with $7113, battery level: 156
+"Coles v5" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"CheilSnakes" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"Kizuna Ai" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"YOUNGGIL TAK" is at "Oboe Lab" with $5712, battery level: 162
+"Totally Not Robot" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"Version 2" is at "Green Square Vines" with $885, battery level: 247, 13 kg of Grapes
+"Tatsuya-sama" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"Rongze Hansen" is at "Mathews A" with $5975, battery level: 132
+"Hot Spicy Meme" is at "CLB 4" with $885, battery level: 246, 13 kg of Grapes
+"Jane Street notice me" is at "Citrus Specialists" with $857, battery level: 195, 13 kg of Limes
+"Myzz" is at "Rosebery Vinnyard" with $223, battery level: 275, 10 kg of Grapes
+"BOO" is at "Science Theatre" with $1195, battery level: 247
+"Testing again" is at "Durian Sisters" with $1, battery level: 119
+"Hibana" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"A Large Male" is at "Bongo Lab" with $857, battery level: 123
+"Billy Bot v180531 1727" is at "Mathews A" with $1891, battery level: 238, 13 kg of Lychees
+"wrong" is at "Lychees Brothers" with $421, battery level: 225, 13 kg of Lychees
+"Predator Drone" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Jason Z" is at "Mathews A" with $1891, battery level: 238, 13 kg of Lychees
+"It's Mcbotface to you" is at "Oud Lab" with $857, battery level: 88
+"still trying" is at "Kensington Solar" with $1187, battery level: 126, 13 kg of Durian
+"King James" is at "We Love The Smell" with $4294, battery level: 196, 13 kg of Durian
+"I hate Lulu" is at "Smelly Fruits R Us" with $1945, battery level: 0
+"Doesn't look like anything to me" is at "CLB 3" with $1, battery level: 0, 12 kg of Durian
+"Dumb Self Aware AI" is at "Mathews A" with $5997, battery level: 158
+"TheLegend27" is at "Mathews D" with $4126, battery level: 174
+"Mo Salah Running Down The Wing" is at "Mathews B" with $5241, battery level: 160, 5 kg of Lychees
+"gdfs" is at "Sour Fruit Specialists" with $2166, battery level: 233
+"Artemis Bot" is at "Mathews B" with $5195, battery level: 154, 5 kg of Lychees
+"Clockwork Cleopatra" is at "Mathews A" with $5659, battery level: 260
+"Alpha1" is at "John Lions Garden" with $493, battery level: 300
+"Hi Botty McBotbot Jr" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"YellowFlower" is at "Mathews A" with $5975, battery level: 130
+"TushieeV" is at "UNSW Recyling" with $954, battery level: 244
+"Homebush Boyz" is at "Mathews D" with $3748, battery level: 152, 13 kg of Lychees
+"JAMALE" is at "Mathews A" with $853, battery level: 296
+"SR" is at "Durian For Dummies" with $4844, battery level: 111
+"testing" is at "Viola Lab" with $1485, battery level: 251
+"Big Boner Brown 2 Boy oh boy wow" is at "Mathews A" with $3787, battery level: 114, 13 kg of Lychees
+"you can run but you cant hide" is at "Lychees Brothers" with $3747, battery level: 157, 13 kg of Lychees
+"Magnetic Coconut" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Shout out to Ben Sho" is at "Mathews A" with $4493, battery level: 220, 13 kg of Lychees
+"Big Lez" is at "Discount Electricity" with $910, battery level: 300
+"GOOD LUCK FOR FINIAL EXAM" is at "Mathews B" with $4025, battery level: 128, 13 kg of Lychees
+"Ryuu" is at "Kora Lab" with $4978, battery level: 75
+"Macintosh Vendor" is at "Mathews D" with $3606, battery level: 184
+"The Spanish Bot" is at "Sitar Lab" with $1945, battery level: 279
+"Kisa" is at "Electricity UNSW" with $413, battery level: 300
+"YAHAHA" is at "Mathews D" with $1193, battery level: 172, 13 kg of Lychees
+"Pen Pinapple Apple Pen" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Memory Anomaly" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Esaelp Em Pleh" is at "Joy's Juices" with $1529, battery level: 256
+"Boooooooooooooot" is at "Village Green" with $3882, battery level: 146, 13 kg of Lychees
+"Eclipse0" is at "J17 G03" with $1916, battery level: 188
+"Fruit Loops" is at "We Love The Smell" with $3626, battery level: 88, 13 kg of Durian
+"4 leaf apple cider" is at "Village Green" with $473, battery level: 222, 13 kg of Lychees
+"Ro-Bot" is at "Kensington Solar" with $437, battery level: 300
+"The real lulu fan" is at "Mathews A" with $5975, battery level: 132
+"Nans Banananans" is at "Mathews A" with $4493, battery level: 220, 13 kg of Lychees
+"I 3 AS" is at "Village Green" with $493, battery level: 276
+"Donkey" is at "UNSW Recyling" with $5002, battery level: 150
+"free real estate v2" is at "CLB 7" with $36, battery level: 281, 11 kg of Lychees
+"Quasar" is at "Lychees Brothers" with $5988, battery level: 165
+"Dangit Ed" is at "Campus Green Waste" with $12, battery level: 233, 13 kg of Grapes
+"00 Why are there so many bugs 88" is at "Mathews A" with $4799, battery level: 148, 13 kg of Lychees
+"Travelling Sales-Bot" is at "Mathews A" with $5377, battery level: 128, 5 kg of Lychees
+"YZMA" is at "Mathews B" with $3154, battery level: 258, 13 kg of Lychees
+"Eugene Li" is at "Mathews A" with $6127, battery level: 152
+"Baozer" is at "Mathews A" with $6222, battery level: 162
+"a call for help" is at "Mathews D" with $313, battery level: 234, 13 kg of Lychees
+"Mr Bot" is at "Great Grapes" with $246, battery level: 276, 13 kg of Grapes
+"Death is my sweet release" is at "Science Theatre" with $1195, battery level: 247
+"Joshu" is at "Horn Lab" with $285, battery level: 297, 13 kg of Mangos
+"Roomba" is at "Botany Produce" with $885, battery level: 231, 13 kg of Grapes
+"ACT III" is at "Mathews A" with $6140, battery level: 186
+*** Turn 25 of 63 ***
+
+*** You are "mxyzptlk"

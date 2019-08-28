@@ -1,0 +1,811 @@
+battery_capacity=428
+maximum_fruit_kg=18
+maximum_move=10
+Village Green: other
+Webster 250: will buy 775 kg of Rhubarb for $112/kg
+Green Square Vines: will sell 525 kg of Oranges for $30/kg
+Red Centre Central Wing 2063: will buy 448 kg of Lemons for $68/kg
+Padstow Pear Orchard: will sell 561 kg of Pears for $23/kg
+Morven Brown LG2: will buy 1186 kg of Starfruit for $93/kg
+Daceyville Rambutan Plantation: will sell 445 kg of Rambutans for $13/kg
+La Perouse Orange Specialists: will sell 1169 kg of Oranges for $32/kg
+Civil Engineering 101: will buy 1059 kg of Mangosteens for $26/kg
+Mathews D: will buy 625 kg of Mangosteens for $27/kg
+Rex Vowels Theatre: will buy 1254 kg of Apples for $58/kg
+Fig Brothers: will sell 863 kg of Figs for $78/kg
+Bondi Apple Growers: will sell 975 kg of Apples for $30/kg
+Goldstein G05: will buy 1092 kg of Tangelos for $58/kg
+Luscious Starfruits: will sell 948 kg of Starfruit for $47/kg
+La Perouse Charging: will sell 5279 kJ of Electricity for $3/kJ
+Law Building 101: will buy 1228 kg of Pomegranates for $127/kg
+Clancy Auditorium: will buy 892 kg of Lemons for $54/kg
+Penrith Mangosteen Specialists: will sell 1222 kg of Mangosteens for $11/kg
+Luscious Pears: will sell 593 kg of Pears for $19/kg
+Wentworth Fruit: will sell 1064 kg of Tangelos for $33/kg
+Mathews A: will buy 561 kg of Longans for $123/kg
+Barker St Carpark: other
+Luscious Grapes: will sell 1087 kg of Grapes for $11/kg
+Little Bay Mangosteen Farm: will sell 867 kg of Mangosteens for $14/kg
+Mathews 232: will buy 855 kg of Figs for $191/kg
+Bondi Park: other
+Webster 302: will buy 1163 kg of Watermelons for $93/kg
+Luscious Oranges: will sell 1040 kg of Oranges for $28/kg
+Quadrangle G044: will buy 1083 kg of Apples for $50/kg
+Mascot Pear Plantation: will sell 398 kg of Pears for $18/kg
+Webster 252: will buy 919 kg of Watermelons for $98/kg
+Goldstein G07: will buy 850 kg of Lemons for $41/kg
+Campus Park: other
+Padstow Mangosteen Farm: will sell 1042 kg of Mangosteens for $13/kg
+Mathews 313: will buy 616 kg of Grapes for $28/kg
+Wentworth Tangelo Specialists: will sell 398 kg of Tangelos for $39/kg
+Quadrangle 1047: will buy 986 kg of Apples for $54/kg
+Lovely Kiwifruits: will sell 873 kg of Kiwifruit for $23/kg
+Quadrangle G032: will buy 954 kg of Figs for $154/kg
+Oboe Lab: will buy 1066 kg of Pomegranates for $81/kg
+Morven Brown G4: will buy 958 kg of Rambutans for $23/kg
+Penrith Park: other
+Mathews 101: will buy 673 kg of Figs for $162/kg
+Rosebery Park: other
+Cello Lab: will buy 786 kg of Pears for $51/kg
+Beaconsfield Fig Orchard: will sell 1023 kg of Figs for $78/kg
+Goldstein G03: will buy 617 kg of Pomegranates for $132/kg
+Little Bay Mangosteen Plantation: will sell 758 kg of Mangosteens for $9/kg
+Mathews 308: will buy 846 kg of Starfruit for $66/kg
+Pear Sisters: will sell 679 kg of Pears for $27/kg
+Quadrangle G052: will buy 863 kg of Longans for $73/kg
+La Perouse Lemon Growers: will sell 1190 kg of Lemons for $35/kg
+Central Lecture Block 3: will buy 1023 kg of Grapes for $39/kg
+Ainsworth G03: will buy 972 kg of Tangelos for $52/kg
+Kora Lab: will buy 812 kg of Tangelos for $57/kg
+Mandarins R Us: will sell 620 kg of Mandarins for $122/kg
+Central Lecture Block 4: will buy 901 kg of Pomegranates for $97/kg
+Rosebery Juices: will buy 569846 kg of Anything for $2/kg
+Luscious Figs: will sell 1032 kg of Figs for $94/kg
+Kogarah Starfruit Plantation: will sell 519 kg of Starfruit for $56/kg
+Great Longan: will sell 863 kg of Longans for $60/kg
+Central Lecture Block 5: will buy 1231 kg of Pears for $47/kg
+Penrith Lemon Plantation: will sell 909 kg of Lemons for $48/kg
+Quadrangle G046: will buy 948 kg of Kiwifruit for $61/kg
+Padstow Grape Specialists: will sell 1160 kg of Grapes for $15/kg
+Mathews 307: will buy 937 kg of Apples for $69/kg
+Bongo Lab: will buy 649 kg of Pomegranates for $125/kg
+Grapes R Us: will sell 1074 kg of Grapes for $15/kg
+Civil Engineering 701: will buy 735 kg of Rambutans for $22/kg
+Physics Lawn: other
+Rosebery Pomegranate Growers: will sell 1274 kg of Pomegranates for $76/kg
+Old Main Building 230: will buy 899 kg of Starfruit for $115/kg
+Little Bay Pear Growers: will sell 986 kg of Pears for $30/kg
+Blockhouse G16: will buy 885 kg of Mandarins for $143/kg
+Maroubra Juices: will buy 573138 kg of Anything for $1/kg
+Padstow Watermelon Orchard: will sell 990 kg of Watermelons for $43/kg
+Luscious Kiwifruits: will sell 773 kg of Kiwifruit for $27/kg
+Law Building 201: will buy 707 kg of Figs for $155/kg
+Mathews 106: will buy 1141 kg of Grapes for $36/kg
+Rhubarb Brothers: will sell 1592 kg of Rhubarb for $48/kg
+Apple Sisters: will sell 705 kg of Apples for $21/kg
+Bronte Grape Centre: will sell 1113 kg of Grapes for $15/kg
+Quadrangle 1048: will buy 835 kg of Figs for $196/kg
+Macauley Theatre: will buy 899 kg of Mangosteens for $22/kg
+Mathews 227: will buy 939 kg of Figs for $164/kg
+Blockhouse G13: will buy 313 kg of Rhubarb for $125/kg
+Ritchie Theatre: will buy 585 kg of Lemons for $71/kg
+Red Centre West 3037: will buy 560 kg of Mandarins for $237/kg
+Red Centre Central Wing 2060: will buy 782 kg of Mangosteens for $20/kg
+Old Main Building 150: will buy 806 kg of Rambutans for $25/kg
+John Lions Garden: other
+Colombo LG01: will buy 659 kg of Rambutans for $28/kg
+Law Theatre G23: will buy 506 kg of Lemons for $77/kg
+UNSW Watermelon: will sell 862 kg of Watermelons for $33/kg
+Wentworth Apple Centre: will sell 902 kg of Apples for $23/kg
+La Perouse Green Waste: will buy 480280 kg of Anything for $1/kg
+Bronte Park: other
+Penrith Pear Orchard: will sell 1376 kg of Pears for $38/kg
+Mathews 309: will buy 1003 kg of Mangosteens for $18/kg
+Clovelly Estate: will sell 1436 kg of Grapes for $16/kg
+Law Theatre: will buy 313 kg of Figs for $150/kg
+Quadrangle Lawn: other
+Bondi Grape Orchard: will sell 701 kg of Grapes for $19/kg
+Kingsford Park: other
+Beaconsfield Park: other
+Central Lecture Block 2: will buy 824 kg of Lemons for $76/kg
+Penrith Estate: will sell 1073 kg of Longans for $60/kg
+Kensington Park: other
+Law Building 203: will buy 671 kg of Oranges for $47/kg
+Rosebery Grape Farm: will sell 398 kg of Grapes for $19/kg
+Law Library G17: will buy 873 kg of Starfruit for $79/kg
+Quadrangle G031: will buy 752 kg of Starfruit for $92/kg
+ChemicalSc M17: will buy 867 kg of Tangelos for $54/kg
+Mathews 301: will buy 725 kg of Watermelons for $66/kg
+Padstow Apple Farm: will sell 694 kg of Apples for $38/kg
+Red Centre Central Wing M032: will buy 871 kg of Pears for $59/kg
+Ainsworth 102: will buy 952 kg of Figs for $176/kg
+Blockhouse G14: will buy 838 kg of Watermelons for $51/kg
+Mascot Apple Farm: will sell 1332 kg of Apples for $31/kg
+Randwick Produce: will sell 734 kg of Starfruit for $55/kg
+Matraville Starfruit: will sell 1257 kg of Starfruit for $48/kg
+Organ Lab: will buy 656 kg of Tangelos for $86/kg
+Physics Theatre: will buy 924 kg of Apples for $64/kg
+Goldstein G02: will buy 439 kg of Mandarins for $186/kg
+Kensington Estate: will sell 781 kg of Mangosteens for $13/kg
+Clavier Lab: will buy 618 kg of Rambutans for $24/kg
+Quadrangle 1001: will buy 1251 kg of Tangelos for $42/kg
+Great Grape: will sell 665 kg of Grapes for $19/kg
+Wentworth Watermelon Orchard: will sell 1039 kg of Watermelons for $48/kg
+Pioneer International Theatre: will buy 1103 kg of Mandarins for $239/kg
+New South Global Theatre: will buy 728 kg of Tangelos for $92/kg
+Penrith Starfruit Farm: will sell 467 kg of Starfruit for $58/kg
+Mathews 107: will buy 313 kg of Rhubarb for $98/kg
+Quadrangle G048: will buy 1059 kg of Rambutans for $31/kg
+Great Lemon: will sell 693 kg of Lemons for $46/kg
+Mathews 103: will buy 582 kg of Apples for $42/kg
+Newton 307: will buy 919 kg of Mandarins for $167/kg
+Padstow Recyling: will buy 371225 kg of Anything for $1/kg
+Mangosteen Sisters: will sell 817 kg of Mangosteens for $11/kg
+Law Building 162: will buy 516 kg of Longans for $124/kg
+Tangelos R Us: will sell 1479 kg of Tangelos for $33/kg
+Padstow Orange Plantation: will sell 560 kg of Oranges for $24/kg
+EE G25: will buy 1138 kg of Figs for $142/kg
+Viola Lab: will buy 677 kg of Figs for $178/kg
+Mathews 231: will buy 708 kg of Mangosteens for $24/kg
+Red Centre Central Wing 1040: will buy 783 kg of Apples for $54/kg
+Daceyville Park: other
+Malabar Grape Specialists: will sell 1063 kg of Grapes for $20/kg
+Electricity Rosebery: will sell 4929 kJ of Electricity for $3/kJ
+Starfruit Brothers: will sell 573 kg of Starfruit for $66/kg
+UNSW Recyling: will buy 410813 kg of Anything for $2/kg
+Ainsworth 101: will buy 935 kg of Rambutans for $27/kg
+Wentworth Apple Specialists: will sell 428 kg of Apples for $33/kg
+Civil Engineering 109: will buy 1053 kg of Mangosteens for $24/kg
+Paddington Pomegranate Farm: will sell 935 kg of Pomegranates for $81/kg
+Piano Lab: will buy 1043 kg of Mangosteens for $15/kg
+Keith Burrows Theatre: will buy 530 kg of Kiwifruit for $63/kg
+J17-201: will buy 832 kg of Longans for $73/kg
+Botany Starfruit: will sell 1427 kg of Starfruit for $42/kg
+Bondi Kiwifruit Growers: will sell 788 kg of Kiwifruit for $44/kg
+Bronte Lemon Specialists: will sell 1377 kg of Lemons for $24/kg
+Quadrangle G025: will buy 873 kg of Longans for $116/kg
+Wentworth Pear Plantation: will sell 1187 kg of Pears for $33/kg
+Watermelon Brothers: will sell 646 kg of Watermelons for $46/kg
+Great Rhubarb: will sell 1215 kg of Rhubarb for $62/kg
+John Goodsell LG19: will buy 671 kg of Rhubarb for $162/kg
+Chemical Sc M18: will buy 852 kg of Starfruit for $92/kg
+Mathews 228: will buy 980 kg of Apples for $62/kg
+Luscious Longans: will sell 842 kg of Longans for $70/kg
+Padstow Park: other
+Matraville Discount Electricity: will sell 3301 kJ of Electricity for $4/kJ
+Beaconsfield Solar: will sell 7686 kJ of Electricity for $3/kJ
+UNSW Park: other
+Law Building 388: will buy 669 kg of Starfruit for $91/kg
+Little Bay Park: other
+J17-101: will buy 682 kg of Apples for $35/kg
+Horn Lab: will buy 648 kg of Rambutans for $23/kg
+Waverly Park: other
+Webster Theatre B: will buy 579 kg of Mandarins for $224/kg
+Morven Brown G6: will buy 653 kg of Rambutans for $28/kg
+Mathews B: will buy 929 kg of Oranges for $67/kg
+Great Pear: will sell 1517 kg of Pears for $24/kg
+Quadrangle G027: will buy 597 kg of Pomegranates for $110/kg
+Quadrangle G053: will buy 1082 kg of Mandarins for $220/kg
+Old Main Building 149: will buy 616 kg of Mandarins for $198/kg
+Quadrangle G026: will buy 948 kg of Kiwifruit for $71/kg
+Eastgardens Park: other
+Lovely Apples: will sell 857 kg of Apples for $36/kg
+Quadrangle 1042: will buy 528 kg of Pomegranates for $132/kg
+Red Centre Theatre: will buy 517 kg of Tangelos for $55/kg
+Quadrangle G034: will buy 1062 kg of Rambutans for $23/kg
+Luscious Apples: will sell 1198 kg of Apples for $23/kg
+Quadrangle G042: will buy 878 kg of Apples for $70/kg
+Malabar Park: other
+Botany Fig: will sell 1068 kg of Figs for $59/kg
+Penrith Produce: will sell 865 kg of Pears for $32/kg
+Great Mandarin: will sell 1127 kg of Mandarins for $78/kg
+Bronte Kiwifruit Farm: will sell 1097 kg of Kiwifruit for $43/kg
+Luscious Rambutans: will sell 1075 kg of Rambutans for $10/kg
+Power For You: will sell 8210 kJ of Electricity for $4/kJ
+Beaconsfield Juices: will buy 468172 kg of Anything for $1/kg
+Luscious Tangelos: will sell 512 kg of Tangelos for $34/kg
+Kensington Kiwifruit Centre: will sell 582 kg of Kiwifruit for $31/kg
+Blockhouse G15: will buy 1050 kg of Oranges for $67/kg
+Zetland Grape Farm: will sell 1279 kg of Grapes for $20/kg
+Lovely Pears: will sell 800 kg of Pears for $30/kg
+Maroubra Pear: will sell 733 kg of Pears for $28/kg
+Electricity Bronte: will sell 7306 kJ of Electricity for $5/kJ
+Clovelly Compost Heap: will buy 268761 kg of Anything for $1/kg
+Quadrangle G040: will buy 926 kg of Figs for $156/kg
+Red Centre Central Wing 1041: will buy 554 kg of Starfruit for $83/kg
+Starfruit Sisters: will sell 1092 kg of Starfruit for $47/kg
+Mascot Fruit: will sell 1592 kg of Rambutans for $13/kg
+Mathews 310: will buy 660 kg of Kiwifruit for $89/kg
+Webster Theatre A: will buy 742 kg of Pears for $69/kg
+Rosebery Pomegranate Centre: will sell 1305 kg of Pomegranates for $63/kg
+Red Centre Central Wing 2062: will buy 536 kg of Tangelos for $71/kg
+Newton 306: will buy 903 kg of Longans for $97/kg
+Goldstein G09: will buy 714 kg of Figs for $164/kg
+Quadrangle G047: will buy 695 kg of Grapes for $41/kg
+Matraville Longan Specialists: will sell 818 kg of Longans for $78/kg
+Bondi Fig Growers: will sell 844 kg of Figs for $90/kg
+UNSW Rhubarb: will sell 1005 kg of Rhubarb for $52/kg
+Paddington Lemon Orchard: will sell 1205 kg of Lemons for $32/kg
+Paddington Mangosteen Specialists: will sell 930 kg of Mangosteens for $14/kg
+Mathews 303: will buy 666 kg of Grapes for $25/kg
+Quadrangle G033: will buy 804 kg of Figs for $132/kg
+Civil Engineering G1: will buy 707 kg of Lemons for $71/kg
+Grape Sisters: will sell 1001 kg of Grapes for $16/kg
+Great Rambutan: will sell 1245 kg of Rambutans for $12/kg
+Rosebery Charging: will sell 3498 kJ of Electricity for $10/kJ
+Central Lecture Block 6: will buy 560 kg of Tangelos for $72/kg
+Paddington Orange Centre: will sell 1092 kg of Oranges for $36/kg
+Bondi Fruit: will sell 1453 kg of Rambutans for $12/kg
+Anzac Parade: other
+J17 G02: will buy 642 kg of Mandarins for $192/kg
+Bondi Starfruit Growers: will sell 658 kg of Starfruit for $42/kg
+Colombo Theatre C: will buy 920 kg of Mandarins for $172/kg
+La Perouse Juices: will buy 353627 kg of Anything for $3/kg
+Bronte Juices: will buy 565671 kg of Anything for $1/kg
+UNSW Orange: will sell 1393 kg of Oranges for $33/kg
+La Perouse Watermelon Orchard: will sell 1245 kg of Watermelons for $41/kg
+Quadrangle G045: will buy 631 kg of Kiwifruit for $72/kg
+Zetland Compost Heap: will buy 445445 kg of Anything for $4/kg
+Kingsford Estate: will sell 1032 kg of Rambutans for $15/kg
+Quadrangle G041: will buy 862 kg of Oranges for $63/kg
+Lovely Starfruits: will sell 957 kg of Starfruit for $55/kg
+Zetland Park: other
+EE 418: will buy 545 kg of Pomegranates for $94/kg
+Webster 251: will buy 1254 kg of Pears for $42/kg
+Randwick Rhubarb Plantation: will sell 1342 kg of Rhubarb for $61/kg
+Botany Pomegranate: will sell 799 kg of Pomegranates for $74/kg
+Mangosteen Brothers: will sell 1269 kg of Mangosteens for $9/kg
+Padstow Pear: will sell 1155 kg of Pears for $24/kg
+EE G24: will buy 1061 kg of Longans for $85/kg
+Drum Lab: will buy 313 kg of Kiwifruit for $80/kg
+Quadrangle G035: will buy 663 kg of Kiwifruit for $76/kg
+Electrical Eng G25: will buy 437 kg of Longans for $125/kg
+Colombo Theatre A: will buy 816 kg of Tangelos for $76/kg
+Paddington Discount Electricity: will sell 4676 kJ of Electricity for $4/kJ
+Kogarah Rambutan Growers: will sell 1161 kg of Rambutans for $10/kg
+K17 Basement: will buy 706 kg of Tangelos for $68/kg
+Red Centre Central Wing 2061: will buy 864 kg of Figs for $158/kg
+Paddington Park: other
+Botany Green Waste: will buy 400783 kg of Anything for $3/kg
+Webster 256: will buy 862 kg of Mangosteens for $21/kg
+Law Building 275: will buy 866 kg of Pears for $35/kg
+Kogarah Fruit: will sell 1262 kg of Oranges for $33/kg
+Kensington Fruit: will sell 510 kg of Rhubarb for $57/kg
+John Goodsell LG21: will buy 571 kg of Starfruit for $104/kg
+Rosebery Fruit: will sell 1476 kg of Mandarins for $104/kg
+Zetland Estate: will sell 1090 kg of Oranges for $45/kg
+Quadrangle G054: will buy 484 kg of Longans for $118/kg
+UNSW Starfruit Farm: will sell 1268 kg of Starfruit for $52/kg
+Mathews C: will buy 511 kg of Kiwifruit for $73/kg
+Mathews 104: will buy 591 kg of Mandarins for $198/kg
+Law Building 301: will buy 963 kg of Oranges for $68/kg
+Quadrangle 1045: will buy 377 kg of Apples for $72/kg
+Civil Engineering G6: will buy 972 kg of Mandarins for $194/kg
+Kingsford Mangosteen: will sell 1114 kg of Mangosteens for $11/kg
+J17 G01: will buy 842 kg of Starfruit for $106/kg
+Ainsworth G01: will buy 726 kg of Kiwifruit for $68/kg
+Red Centre Central Wing 1042: will buy 1036 kg of Figs for $171/kg
+Law Building 202: will buy 1170 kg of Tangelos for $72/kg
+Bondi Rhubarb Growers: will sell 1190 kg of Rhubarb for $56/kg
+Law Building 303: will buy 800 kg of Grapes for $32/kg
+Goldstein G01: will buy 808 kg of Mangosteens for $23/kg
+Longan Sisters: will sell 990 kg of Longans for $70/kg
+Morven Brown G5: will buy 901 kg of Kiwifruit for $84/kg
+Central Lecture Block 1: will buy 1254 kg of Oranges for $86/kg
+Lemon Sisters: will sell 497 kg of Lemons for $40/kg
+Science Theatre: will buy 972 kg of Oranges for $70/kg
+Botany Park: other
+Matraville Grape Plantation: will sell 1149 kg of Grapes for $17/kg
+Rambutans R Us: will sell 954 kg of Rambutans for $13/kg
+Randwick Park: other
+Bronte Estate: will sell 1079 kg of Oranges for $38/kg
+Old Main Building 151: will buy 902 kg of Tangelos for $71/kg
+Mathews 306: will buy 1014 kg of Kiwifruit for $64/kg
+Law Library 111: will buy 687 kg of Kiwifruit for $67/kg
+Chemical Sc M11: will buy 741 kg of Mangosteens for $29/kg
+Kiwifruit Brothers: will sell 1032 kg of Kiwifruit for $34/kg
+Matraville Park: other
+Morven Brown G3: will buy 1032 kg of Kiwifruit for $69/kg
+Zetland Discount Electricity: will sell 6404 kJ of Electricity for $5/kJ
+Colombo LG02: will buy 976 kg of Longans for $72/kg
+Central Lecture Block 8: will buy 1090 kg of Watermelons for $64/kg
+Oranges R Us: will sell 1118 kg of Oranges for $29/kg
+J17-102: will buy 583 kg of Rhubarb for $122/kg
+La Perouse Grape Centre: will sell 983 kg of Grapes for $20/kg
+Eastgardens Estate: will sell 1076 kg of Rambutans for $18/kg
+Quadrangle G055: will buy 675 kg of Mandarins for $214/kg
+Padstow Estate: will sell 782 kg of Rambutans for $13/kg
+Sitar Lab: will buy 752 kg of Rambutans for $19/kg
+Kingsford Discount Electricity: will sell 2983 kJ of Electricity for $1/kJ
+Mathews 226: will buy 928 kg of Mandarins for $205/kg
+Oud Lab: will buy 910 kg of Rambutans for $27/kg
+Lovely Lemons: will sell 1370 kg of Lemons for $34/kg
+Mathews 108: will buy 670 kg of Mandarins for $257/kg
+Penrith Longan Plantation: will sell 968 kg of Longans for $66/kg
+Mandarin Sisters: will sell 574 kg of Mandarins for $67/kg
+Maroubra Park: other
+UNSW Charging: will sell 7605 kJ of Electricity for $12/kJ
+Bondi Longan: will sell 651 kg of Longans for $62/kg
+Kingsford Produce: will sell 1080 kg of Starfruit for $46/kg
+Mascot Park: other
+Clovelly Park: other
+Wentworth Longan Farm: will sell 954 kg of Longans for $73/kg
+Penrith Lemon Centre: will sell 1047 kg of Lemons for $38/kg
+Wentworth Park: other
+Paddington Apple Centre: will sell 788 kg of Apples for $34/kg
+Electrical Eng 418: will buy 789 kg of Rhubarb for $122/kg
+Zetland Fig: will sell 804 kg of Figs for $85/kg
+Waverly Watermelon Orchard: will sell 876 kg of Watermelons for $42/kg
+Malabar Grape Orchard: will sell 1107 kg of Grapes for $11/kg
+Daceyville Compost Heap: will buy 648057 kg of Anything for $1/kg
+Red Centre West 4037: will buy 782 kg of Mangosteens for $20/kg
+Mathews 105: will buy 626 kg of Lemons for $59/kg
+La Perouse Park: other
+Watermelon Sisters: will sell 1321 kg of Watermelons for $47/kg
+Red Centre Central Wing 1043: will buy 675 kg of Kiwifruit for $52/kg
+Maroubra Apple Orchard: will sell 931 kg of Apples for $32/kg
+Rosebery Produce: will sell 823 kg of Mangosteens for $14/kg
+Chemical Sc M10: will buy 860 kg of Mandarins for $147/kg
+Goldstein G04: will buy 1143 kg of Watermelons for $77/kg
+Padstow Discount Electricity: will sell 6428 kJ of Electricity for $7/kJ
+UNSW Longan: will sell 823 kg of Longans for $73/kg
+Rosebery Fig Specialists: will sell 973 kg of Figs for $94/kg
+Quadrangle 1046: will buy 1141 kg of Lemons for $59/kg
+Civil Engineering 102: will buy 1254 kg of Tangelos for $68/kg
+Old Main Building G32: will buy 313 kg of Apples for $62/kg
+Morven Brown LG30: will buy 997 kg of Pears for $60/kg
+Penrith Solar: will sell 6617 kJ of Electricity for $4/kJ
+Wentworth Mangosteen Centre: will sell 833 kg of Mangosteens for $13/kg
+J17-202: will buy 1062 kg of Mangosteens for $23/kg
+Luscious Watermelons: will sell 853 kg of Watermelons for $31/kg
+Pear Brothers: will sell 643 kg of Pears for $38/kg
+Goldstein G06: will buy 812 kg of Apples for $35/kg
+Old Main Building G31: will buy 1139 kg of Tangelos for $88/kg
+Old Main Building 229: will buy 811 kg of Mandarins for $180/kg
+Lovely Oranges: will sell 1055 kg of Oranges for $29/kg
+CSE: other
+Campus Tangelo: will sell 474 kg of Tangelos for $28/kg
+Red Centre West 2035: will buy 834 kg of Longans for $117/kg
+Kensington Lemon Plantation: will sell 1214 kg of Lemons for $43/kg
+Central Lecture Block 7: will buy 785 kg of Watermelons for $98/kg
+Colombo Theatre B: will buy 744 kg of Starfruit for $108/kg
+Padstow Rambutan Farm: will sell 1379 kg of Rambutans for $12/kg
+Daceyville Charging: will sell 4646 kJ of Electricity for $4/kJ
+Mangosteens R Us: will sell 545 kg of Mangosteens for $16/kg
+Little Bay Apple Orchard: will sell 508 kg of Apples for $22/kg
+Law Theatre G04: will buy 935 kg of Kiwifruit for $91/kg
+Ainsworth 201: will buy 590 kg of Oranges for $45/kg
+La Perouse Estate: will sell 1018 kg of Grapes for $14/kg
+Law Building 302: will buy 1082 kg of Lemons for $55/kg
+Bugle Lab: will buy 662 kg of Watermelons for $75/kg
+Kogarah Park: other
+John B Reid Theatre: will buy 1254 kg of Pears for $48/kg
+Daceyville Produce: will sell 712 kg of Kiwifruit for $44/kg
+Beaconsfield Rambutan Plantation: will sell 398 kg of Rambutans for $15/kg
+Mathews 311: will buy 714 kg of Mangosteens for $21/kg
+Waverly Kiwifruit Centre: will sell 568 kg of Kiwifruit for $41/kg
+Wentworth Longan Centre: will sell 931 kg of Longans for $58/kg
+Luscious Lemons: will sell 1131 kg of Lemons for $24/kg
+Daceyville Longan Specialists: will sell 398 kg of Longans for $68/kg
+Bondi Tangelo Growers: will sell 680 kg of Tangelos for $32/kg
+Lemons R Us: will sell 422 kg of Lemons for $28/kg
+Rosebery Pomegranate Orchard: will sell 1169 kg of Pomegranates for $79/kg
+Flute Lab: will buy 643 kg of Starfruit for $89/kg
+Red Centre West 4034: will buy 704 kg of Tangelos for $73/kg
+Law Theatre G02: will buy 690 kg of Starfruit for $84/kg
+Bondi Pomegranate Growers: will sell 970 kg of Pomegranates for $88/kg
+Kingsford Mangosteen Orchard: will sell 1104 kg of Mangosteens for $13/kg
+Law Building 389: will buy 833 kg of Mandarins for $265/kg
+La Perouse Orange Growers: will sell 1318 kg of Oranges for $37/kg
+Mathews 312: will buy 749 kg of Oranges for $57/kg
+Law Building 276: will buy 868 kg of Kiwifruit for $71/kg
+Tabla Lab: will buy 878 kg of Kiwifruit for $74/kg
+Mathews 302: will buy 1116 kg of Oranges for $77/kg
+Ainsworth 202: will buy 861 kg of Tangelos for $59/kg
+Quadrangle 1049: will buy 1038 kg of Rhubarb for $78/kg
+Orange Sisters: will sell 903 kg of Oranges for $43/kg
+Ainsworth G02: will buy 864 kg of Rhubarb for $97/kg
+Mathews 102: will buy 1254 kg of Rambutans for $20/kg
+AGSM LG06: will buy 1039 kg of Oranges for $46/kg
+Chi Lab: will buy 313 kg of Figs for $136/kg
+Blockhouse G6: will buy 711 kg of Grapes for $31/kg
+Bondi Mangosteen Growers: will sell 1592 kg of Mangosteens for $12/kg
+Luscious Mangosteens: will sell 1324 kg of Mangosteens for $13/kg
+Red Centre West M010: will buy 636 kg of Rambutans for $20/kg
+Kogarah Tangelo Specialists: will sell 1076 kg of Tangelos for $36/kg
+Bondi Longan Growers: will sell 1080 kg of Longans for $39/kg
+Civil Engineering G8: will buy 800 kg of Mandarins for $129/kg
+Library Lawn: other
+Electrical Eng G24: will buy 838 kg of Kiwifruit for $86/kg
+Mathews 230: will buy 832 kg of Mangosteens for $14/kg
+Kensington Mandarin: will sell 1355 kg of Mandarins for $110/kg
+J17 G03: will buy 835 kg of Apples for $55/kg
+Lovely Rambutans: will sell 1436 kg of Rambutans for $13/kg
+Mascot Produce: will sell 941 kg of Longans for $70/kg
+Quadrangle 1043: will buy 383 kg of Kiwifruit for $53/kg
+Law Building 163: will buy 1015 kg of Apples for $66/kg
+Rosebery Watermelon Centre: will sell 972 kg of Watermelons for $34/kg
+Wentworth Orange Plantation: will sell 838 kg of Oranges for $36/kg
+Waverly Charging: will sell 8201 kJ of Electricity for $2/kJ
+Rosebery Fig Farm: will sell 940 kg of Figs for $129/kg
+Bronte Rhubarb Centre: will sell 528 kg of Rhubarb for $72/kg
+"The Intense Bot" is at "Village Green" with $62, battery level: 426
+"Tarun can't ping xoxo" is at "Village Green" with $62, battery level: 428
+"_xd" is at "Wentworth Fruit" with $62, battery level: 408
+"Cheese Kimbap" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Triple six" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Najip" is at "Mathews D" with $62, battery level: 417
+"Botty McBotface" is at "Lovely Rambutans" with $62, battery level: 417
+"DerpBot" is at "Bondi Apple Growers" with $62, battery level: 416
+"bilch" is at "Wentworth Fruit" with $62, battery level: 408
+"la ji" is at "Wentworth Orange Plantation" with $26, battery level: 424, 1 kg of Oranges
+"Butty McButtbutt" is at "Village Green" with $62, battery level: 428
+"who is woohoo" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"asdf" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Candy is better than Fruit" is at "Luscious Starfruits" with $62, battery level: 414
+"Go Grow A Pear" is at "Bondi Apple Growers" with $62, battery level: 416
+"Mr Grace" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"0profitcomingthrough" is at "Wentworth Fruit" with $62, battery level: 408
+"Vault_Boy" is at "Wentworth Fruit" with $62, battery level: 408
+"Filthy Meatball" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Mike the Headless Chicken" is at "Rosebery Fig Farm" with $62, battery level: 426
+"UwU returns" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Sizzling Zin" is at "Green Square Vines" with $62, battery level: 426
+"GouLiGuoJiaShengSiYi" is at "Wentworth Fruit" with $62, battery level: 408
+"Paddy's Markets" is at "Kensington Mandarin" with $62, battery level: 417
+"Locke-Bot V2" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"EcMile McHesky" is at "Wentworth Fruit" with $62, battery level: 408
+"Sanste" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Vince McMahon" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Case Blue" is at "Bondi Apple Growers" with $62, battery level: 416
+"stupid bot version1" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Botfly" is at "Daceyville Rambutan Plantation" with $62, battery level: 420
+"unchained" is at "Village Green" with $62, battery level: 428
+"Is it really though" is at "Village Green" with $62, battery level: 428
+"stalker-bot 2018-05-31 1345" is at "Village Green" with $62, battery level: 428
+"me" is at "Bondi Apple Growers" with $62, battery level: 416
+"m7 toll clean" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"i miss hot pot sooooooo much" is at "Wentworth Fruit" with $62, battery level: 408
+"Frostbyte the Sad" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Yet another fruit vendor" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Victorrrrrrrrrr" is at "Village Green" with $62, battery level: 428
+"God loves mormons" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Soryu Asuka Langley" is at "Wentworth Fruit" with $62, battery level: 408
+"SuperCat" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"A1B0T" is at "Green Square Vines" with $62, battery level: 426
+"ForeverAlex HXY" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"00ROZZO" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"qwerqwerqwer" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"ChildLulu" is at "Rosebery Fig Farm" with $62, battery level: 426
+"nutmeg 5000" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Generic_Bot" is at "Village Green" with $62, battery level: 426
+"Cabbage Merchant" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Such lovely boost" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Electric Fruitbat" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"tru dat" is at "Wentworth Fruit" with $62, battery level: 408
+"blep" is at "Rosebery Watermelon Centre" with $28, battery level: 423, 1 kg of Watermelons
+"Doki Doki" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Heisenberg" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"failing 1131_v3" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"TaylorRoxtxt" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Salty Snacks" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"save_mah_sanityorg" is at "Lovely Rambutans" with $10, battery level: 419, 4 kg of Rambutans
+"RamosTheAnimal" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Botty McBotbot" is at "Village Green" with $62, battery level: 428
+"Claude Shannon" is at "Padstow Pear Orchard" with $62, battery level: 424
+"stan LOONA" is at "Bondi Apple Growers" with $62, battery level: 416
+"Jungshook" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Ava" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Grumbly" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"ELIE'S SECRET ADMIRER" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"R A M A" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Casual Bot" is at "Waverly Charging" with $62, battery level: 421
+"Aesop Rock" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"The Fridge" is at "Village Green" with $62, battery level: 428
+"Marty McFly" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Jasoooooooooooimprove" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Joey JoJo Jr Shabadoo" is at "Bondi Apple Growers" with $62, battery level: 416
+"BalenciagaBotUwU" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"I'm scared mommy" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"fruity McBot" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Fae" is at "Kensington Mandarin" with $62, battery level: 417
+"na" is at "Morven Brown LG2" with $62, battery level: 419
+"Jules" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Prototype" is at "Wentworth Fruit" with $62, battery level: 408
+"Johnathan Yan Head Lecturer" is at "Wentworth Fruit" with $62, battery level: 408
+"Bestn't Bot" is at "Bondi Apple Growers" with $62, battery level: 416
+"Stargazing" is at "Wentworth Fruit" with $62, battery level: 408
+"skuxxdeluxx" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Why didn't Captain Marvel die" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"i am the coolest bu fu lai zhan" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"not cheating" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"RRR" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"JodieLeeBot" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"ALMAGEST" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"baymax" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"1437" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"ThE MerchanT of VenicE" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Tony did a shoey Reformed" is at "Village Green" with $62, battery level: 428
+"Butterfingers" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Perd Hapley" is at "Village Green" with $62, battery level: 408
+"Han Solo dies in Solo" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Daddy's Little Fidget Spinner" is at "Waverly Charging" with $56, battery level: 428
+"Gorilla Gorilla" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"iambic" is at "Waverly Charging" with $62, battery level: 425
+"greedy guinea pig" is at "Wentworth Fruit" with $62, battery level: 408
+"Liquorland" is at "Wentworth Fruit" with $62, battery level: 408
+"GUDETAMA" is at "Quadrangle 1043" with $62, battery level: 421
+"YoRHa" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Charlie 003" is at "Green Square Vines" with $62, battery level: 426
+"The Return of Trader Bot" is at "Bondi Apple Growers" with $62, battery level: 416
+"Seymour Butz is a cromulent name" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Bashirr" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"BANANA MAN" is at "Green Square Vines" with $62, battery level: 426
+"MY CABBAGES" is at "Rosebery Fig Farm" with $62, battery level: 426
+"wallah to allah cuz" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"I live 2 hours from uni pls help" is at "Padstow Pear Orchard" with $16, battery level: 424, 2 kg of Pears
+"moonstar's top radish" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Noodle Soup" is at "Kensington Mandarin" with $62, battery level: 417
+"A Sinister Baron Mittens" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Mr Blue Sky" is at "Kensington Mandarin" with $62, battery level: 417
+"Lulu terminator" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"ScyTree" is at "Bondi Apple Growers" with $62, battery level: 416
+"I collect salmon" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Waifubot - Fruit Ninja Edition" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"notice me senpai" is at "Green Square Vines" with $32, battery level: 426, 1 kg of Oranges
+"Khajiit Caravans" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"crispy" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"BotS MK2" is at "Daceyville Rambutan Plantation" with $10, battery level: 422, 4 kg of Rambutans
+"Mr Meeseeks" is at "Village Green" with $62, battery level: 428
+"Version 3005" is at "Bronte Rhubarb Centre" with $62, battery level: 409
+"Nairu" is at "Mathews D" with $62, battery level: 417
+"TOP 10 GANG TERRITORY YEET" is at "Fig Brothers" with $62, battery level: 417
+"Tutti Frutti" is at "Green Square Vines" with $62, battery level: 426
+"Newbie" is at "Wentworth Fruit" with $62, battery level: 408
+"ZYLi_v20" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"MJ" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"One Belt One Road" is at "Waverly Charging" with $62, battery level: 425
+"Oooof" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Lulu" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Simon" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"IYL" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"DumBot" is at "Civil Engineering 101" with $62, battery level: 416
+"Vndi Fruit Ninja" is at "Rosebery Fig Farm" with $62, battery level: 426
+"YYY" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"haha" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Struggle Street" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Coolchloe" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Shopaholic" is at "Green Square Vines" with $62, battery level: 426
+"waliysixthtrial" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Cam2" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Iwan Masri" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Nano returns with fruit" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Cabbage Corp" is at "Rosebery Watermelon Centre" with $28, battery level: 423, 1 kg of Watermelons
+"NI-COLDDDD MA" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Bot v42" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"vv" is at "Wentworth Fruit" with $62, battery level: 408
+"Jacobie 20" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Mikewee42" is at "Green Square Vines" with $62, battery level: 426
+"frOwOt" is at "Wentworth Fruit" with $62, battery level: 408
+"Mike Hunt" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"i gonna fail my final cause too " is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Xtreme" is at "Daceyville Rambutan Plantation" with $10, battery level: 422, 4 kg of Rambutans
+"too hard" is at "Village Green" with $62, battery level: 428
+"kelliott" is at "Wentworth Fruit" with $62, battery level: 408
+"Make the impossible possible" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"AAA" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Death of a Salesman" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Bot_why_tho" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Terry loves yoghurt" is at "La Perouse Charging" with $62, battery level: 413
+"Eddy Ave Eggplants" is at "Rosebery Fig Farm" with $62, battery level: 426
+"z123456" is at "Bondi Apple Growers" with $62, battery level: 416
+"Euphemia" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Bugs Botty" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"GingerBreadKing" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"THE JONAS BROTHERS" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Soren" is at "Wentworth Fruit" with $62, battery level: 408
+"Kevo" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"miss_spend_youth" is at "Village Green" with $62, battery level: 428
+"HEHE XD" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Limitless" is at "Kensington Mandarin" with $62, battery level: 417
+"gokul" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"ZZZZZZZ" is at "Bondi Apple Growers" with $62, battery level: 416
+"luke kim's strawberry eyeliner" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"The Bic Henry" is at "Fig Brothers" with $62, battery level: 417
+"Loan_Shark_2018" is at "Bondi Apple Growers" with $62, battery level: 416
+"1231231231231231231231212312312" is at "Green Square Vines" with $62, battery level: 426
+"Botty McBotbot0" is at "Kensington Mandarin" with $62, battery level: 417
+"COMP1511 KEVIN CHEN" is at "Rex Vowels Theatre" with $62, battery level: 418
+"albot einstein" is at "Waverly Charging" with $62, battery level: 425
+"Nine Nine" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"yoot" is at "Green Square Vines" with $62, battery level: 426
+"Make dat money" is at "Village Green" with $62, battery level: 408
+"Watermelon Frappe" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"vicinx" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"A-doggy-dog" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Nanami Chiaki" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Ps Get Degrees" is at "Wentworth Fruit" with $62, battery level: 408
+"Addy Armour" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Wilson's beard  Wigfrid's spear" is at "Wentworth Fruit" with $62, battery level: 408
+"mxyzptlk" is at "Kensington Mandarin" with $62, battery level: 417
+"Uraraka is Best Girl" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Bumblebee" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"95VictorVictor2" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Duriand'" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"I probs don't make profit bot" is at "Wentworth Fruit" with $62, battery level: 408
+"The REAL Fruit Man" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"ERIC" is at "Waverly Charging" with $62, battery level: 425
+"Botty McBotbot1" is at "Green Square Vines" with $62, battery level: 426
+"Wyzey the Wizard" is at "La Perouse Orange Specialists" with $30, battery level: 421, 1 kg of Oranges
+"Bjorgerson" is at "Wentworth Fruit" with $62, battery level: 408
+"Tyloo Somebody" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"okokook" is at "Kensington Mandarin" with $62, battery level: 417
+"Anxietyyyyyyyyyyyyyyyyy" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"My Angelic Sloth" is at "Village Green" with $62, battery level: 426
+"GravesMistake" is at "Green Square Vines" with $62, battery level: 426
+"APPLE AND DURIAN FROOT LOOPS" is at "Green Square Vines" with $62, battery level: 426
+"Donate to RUOK" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"PASSSSS" is at "Padstow Pear Orchard" with $62, battery level: 412
+"Oho" is at "Padstow Pear Orchard" with $62, battery level: 424
+"Loki is alive" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"LANCEYBOY" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Yahnis Zheng" is at "Wentworth Fruit" with $62, battery level: 408
+"The Grand Exchange" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Stop hoarding the electricity" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Botty McBotbot2" is at "Village Green" with $62, battery level: 428
+"Banana Republic" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"I Am The Real Lulu" is at "Wentworth Fruit" with $62, battery level: 408
+"f i s h i n g r o d" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Stefanie Sun" is at "Kensington Mandarin" with $62, battery level: 417
+"OldFashioned" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"SHOW ME THE MONEY" is at "Village Green" with $62, battery level: 428
+"Mr Fantastic" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"yung bot" is at "Wentworth Fruit" with $62, battery level: 408
+"Pecado" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"tripledouble" is at "Green Square Vines" with $62, battery level: 426
+"Loris Karius" is at "Wentworth Fruit" with $62, battery level: 408
+"milk truck arrive" is at "Green Square Vines" with $62, battery level: 426
+"Please give me pity marks" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"BOUMPY" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Timbalicious" is at "Wentworth Fruit" with $62, battery level: 408
+"GIVE ME MO" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Fruity Matooty" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Gordon Ramsay" is at "Bondi Apple Growers" with $62, battery level: 416
+"HUNGRY_FOR_APPLES" is at "Bronte Rhubarb Centre" with $62, battery level: 425
+"Wing it" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Jenny Tran from LGSM v2" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Alex Z" is at "Wentworth Fruit" with $62, battery level: 408
+"Quibbot" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Maplestory Free Market" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Obelisk" is at "Wentworth Fruit" with $62, battery level: 408
+"Bertie Bot's every flavour Fruit" is at "Kensington Mandarin" with $62, battery level: 417
+"Mangoes" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Lawrence Bob v1" is at "Padstow Pear Orchard" with $16, battery level: 424, 2 kg of Pears
+"Julieeeeeeeee" is at "Rosebery Fig Farm" with $62, battery level: 426
+"MyBeautifulDarkTwistedFruitBot" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Rote Learning God" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Wall-E" is at "Bondi Apple Growers" with $62, battery level: 416
+"VictorxDea" is at "Green Square Vines" with $62, battery level: 426
+"Erin Ebuenga" is at "Wentworth Fruit" with $62, battery level: 408
+"0fruity" is at "Village Green" with $62, battery level: 408
+"Maple TA" is at "Wentworth Fruit" with $62, battery level: 408
+"ChoQ" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Judy" is at "La Perouse Orange Specialists" with $62, battery level: 421
+"Eclipse" is at "Rosebery Fig Farm" with $62, battery level: 426
+"CYKA BLYAT" is at "Wentworth Fruit" with $62, battery level: 408
+"BASI" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"business lady" is at "Padstow Pear Orchard" with $16, battery level: 424, 2 kg of Pears
+"Harold" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"This bot was removed for copyrig" is at "Green Square Vines" with $62, battery level: 426
+"R2D2" is at "Daceyville Rambutan Plantation" with $10, battery level: 422, 4 kg of Rambutans
+"Jarvis BOT" is at "Rosebery Fig Farm" with $62, battery level: 426
+"MISS U ZIDANE" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"0My SurName means MONEY" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Ben Swolo" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"n33916s151232e" is at "Wentworth Fruit" with $62, battery level: 408
+"ayelmao" is at "Green Square Vines" with $62, battery level: 426
+"Arrakis" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Puffy" is at "Bondi Apple Growers" with $62, battery level: 416
+"Betsy" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"table1065" is at "Wentworth Fruit" with $62, battery level: 408
+"PigPigPigPigPigPigPigPigeon" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Dijkstra's Algorithm" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"Ebzonman" is at "Wentworth Fruit" with $62, battery level: 408
+"Kiss_tine" is at "Wentworth Fruit" with $62, battery level: 408
+"ramos" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"7F8O0LL3O89WM8E9" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Coles v5" is at "Green Square Vines" with $62, battery level: 426
+"CheilSnakes" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"MikuMikuNishiteageru" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"YOUNGGIL TAK" is at "Village Green" with $62, battery level: 428
+"Totally Not Robot" is at "Green Square Vines" with $62, battery level: 426
+"Version 2" is at "Waverly Charging" with $62, battery level: 425
+"Tatsuya-sama" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Rongze Hansen" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Hot Spicy Meme" is at "Waverly Charging" with $56, battery level: 428
+"Jane Street notice me" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Myzz" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"BOO" is at "Daceyville Rambutan Plantation" with $10, battery level: 422, 4 kg of Rambutans
+"Testing again" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Hibana" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"A Large Male" is at "Wentworth Fruit" with $62, battery level: 408
+"There's a snake in my bot" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Billy Bot v180531 1727" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Ling Yi" is at "Green Square Vines" with $62, battery level: 426
+"wrong" is at "Kensington Mandarin" with $62, battery level: 417
+"Predator Drone" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Jason Z" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"It's Mcbotface to you" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"still trying" is at "Kensington Mandarin" with $62, battery level: 417
+"X-FORCE" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"King James" is at "Kensington Mandarin" with $62, battery level: 417
+"Lil Bot Mo" is at "Green Square Vines" with $62, battery level: 426
+"I hate Lulu" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Paint it black" is at "Village Green" with $62, battery level: 428
+"Dumb Self Aware AI" is at "Bondi Apple Growers" with $62, battery level: 416
+"TheLegend27" is at "Waverly Charging" with $56, battery level: 428
+"Mo Salah Running Down The Wing" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"gdfs" is at "Bondi Apple Growers" with $62, battery level: 416
+"Xiaoweige_geigemianzima" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Vigil" is at "La Perouse Charging" with $62, battery level: 413
+"Artemis Bot" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Clockwork Cleopatra" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Alpha2" is at "Kensington Mandarin" with $62, battery level: 417
+"Hi Botty McBotbot Jr" is at "Green Square Vines" with $62, battery level: 426
+"YellowFlower" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"ihatealgebra" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"VeriiNiice" is at "Rosebery Watermelon Centre" with $28, battery level: 423, 1 kg of Watermelons
+"SlowProcessor" is at "Green Square Vines" with $62, battery level: 426
+"" is at "Fig Brothers" with $62, battery level: 417
+"Homebush Boyz" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"JAMALE" is at "Green Square Vines" with $62, battery level: 426
+"SR" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"speshal occasion" is at "Village Green" with $62, battery level: 428
+"testing" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Big Boner Brown 2 Boy oh boy wow" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"123abc" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Magnetic Coconut" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Dumb bot" is at "Bondi Apple Growers" with $62, battery level: 416
+"Random v1" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Big Lez" is at "Green Square Vines" with $2, battery level: 426, 2 kg of Oranges
+"GOOD LUCK FOR FINIAL EXAM" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Ryuu" is at "Village Green" with $62, battery level: 428
+"Macintosh Vendor" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"The Spanish Bot" is at "Village Green" with $62, battery level: 428
+"Kisa" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Over 9000" is at "Bondi Apple Growers" with $62, battery level: 416
+"YAHAHA" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Pineapple" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"muckFind" is at "Rosebery Fig Farm" with $62, battery level: 426
+"Memory Anomaly" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Esaelp Em Pleh" is at "Wentworth Fruit" with $62, battery level: 408
+"Ooooooooops v2" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Lucy" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Eclipse0" is at "Waverly Charging" with $62, battery level: 411
+"Fruit Loops" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"4 leaf apple cider" is at "Wentworth Fruit" with $62, battery level: 408
+"Ro-Bot" is at "Wentworth Fruit" with $62, battery level: 408
+"maplestory free market fan test " is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"NILK" is at "Wentworth Fruit" with $62, battery level: 408
+"Nans Banananans" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"I 3 AS" is at "Green Square Vines" with $62, battery level: 426
+"Donkey" is at "Kensington Mandarin" with $62, battery level: 417
+"free real estate v2" is at "Green Square Vines" with $62, battery level: 426
+"Quasar" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"Hi I'm Ed" is at "Wentworth Fruit" with $62, battery level: 408
+"0 Kim Jong Noob v97" is at "Kensington Mandarin" with $62, battery level: 417
+"Travelling Sales-Bot" is at "Village Green" with $62, battery level: 428
+"YZMA" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Eugene Li" is at "Bondi Mangosteen Growers" with $62, battery level: 408
+"Baozer" is at "Penrith Mangosteen Specialists" with $62, battery level: 410
+"a call for help" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Mr Bot" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Death is my sweet release" is at "Daceyville Rambutan Plantation" with $10, battery level: 422, 4 kg of Rambutans
+"Botty McBotbot3" is at "Green Square Vines" with $62, battery level: 426
+"Joshu" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"Olivia" is at "Green Square Vines" with $62, battery level: 426
+"Roomba" is at "Bronte Rhubarb Centre" with $62, battery level: 427
+"ACT III" is at "Waverly Charging" with $62, battery level: 411
+*** Turn 3 of 98 ***
+
+*** You are "mxyzptlk"

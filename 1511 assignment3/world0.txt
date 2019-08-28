@@ -1,0 +1,16 @@
+*** Fruit Bot Parameters ***
+battery_capacity=500
+maximum_fruit_kg=50
+maximum_move=10
+
+*** Turn 1 of 19 *** ***
+
+Campus Charging: will sell 100 kJ of Electricity for $4/kJ
+Kensington Apple Farm: will sell 3 kg of Apples for $18/kg
+CSE: other
+Campus Compost Heap: will buy 1000 kg of Anything for $1/kg
+
+
+"Botty McBotbot" is at "CSE" with $500, battery level: 500
+*** You are "Botty McBotbot"
+
